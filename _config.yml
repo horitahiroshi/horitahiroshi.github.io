@@ -1,0 +1,150 @@
+# Site settings
+title: Luiz Alberto Hiroshi Horita
+# twitter_username: rob_hinds
+name: Luiz Alberto Hiroshi Horita
+
+# Build settings
+markdown: kramdown
+
+#User specific content
+#Links that will appear in the navbar
+primarylinks:
+ - title: GitHub
+   url: https://github.com/horitahiroshi
+#  - title: StackOverflow
+#    url: http://stackoverflow.com/users/258813/rhinds
+ - title: LinkedIn
+   url: https://www.linkedin.com/in/luizalbertohiroshihorita/
+
+#Any buzzword skills you want to include
+skills:
+ - Python
+ - Computer Vision
+ - C++
+ - ROS
+ - Machine learning
+ - Mobile Robotics
+
+#Blogfeed is optional - including this will add JS to call the feed and populate blog list
+# blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
+
+#Work experience is required
+roles:
+ - title: MSc. Researcher
+   start: 2019
+   end: Ongoing
+   employer: Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) / Instituto de Ciências Matemática e de Computação (ICMC - University of São Paulo)
+   description: Research line on Mobile Robotics with focus on the autonomous driving vehicles using 3D images and Deep Learning.
+ - title: Technological Researcher
+   start: 2017
+   end: 2019
+   employer: Center of Innovation in Agribusiness (CIAg)
+   description: Actuation in hardware and software development projects with focus on robotics and telemetry. Experience in Microcontroller, PCB (Printed Circuit Board) design, sensors, communication protocols, C++ and Python programming language.
+ - title: Intern
+   start: 2017
+   end: 2017
+   employer: Center of Innovation in Agribusiness (CIAg)
+   description: Development of algorithims for data analysis and predictive analysis, with focus in Python and MongoDB.
+ - title: Assistant Administrative
+   start: 2016
+   end: 2017
+   employer: SHFC Institute of Guidance and Study Development
+   description: Cash flow management, inventory management, management of agenda and internal or external activities, bank reconciliation.
+ - title: Researcher
+   start: 2015
+   end: 2015
+   employer: Escola de Engenharia de São Carlos (EESC - Univeristy of São Paulo)
+   description: Development of the system for handgrip strength evaluation at the Laboratory of Biocybernetic and Rehabilitation Engineering (LABCIBER). Access to work's <a href="http://www.tcc.sc.usp.br/tce/disponiveis/18/180450/tce-31032016-155845/?&lang=br" taget="_blank">Report</a>.
+ - title: Intern
+   start: 2014
+   end: 2014
+   employer: ENTEC Electric & Electronic Co., Ltd. 
+   description: Study of the products developed by ENTEC (equipments for automatization and distribution in electrical energy grid), translation of technical manuals from English to Portuguese, and assistance at the international relations sector.
+ - title: Researcher
+   start: 2014
+   end: 2014
+   employer: Laboratory of Energy / SungkyunKwan University (SKKU) 
+   description: Study of Piezoelectrical viability as an alternative and clean way of electrical energy generation.
+ - title: Intern
+   start: 2014
+   end: 2014
+   employer: Hyundai Motor Company 
+   description: Study of all the systems that compose a car (briefly), study of the assembling line logic, market research in Brazil, and presentation of possible innovation and improvement projects on features of the car model HB20, that is sold in Brazil.
+ - title: Researcher
+   start: 2012
+   end: 2013
+   employer: Ophtalmic Instrumentation Laboratory / Escola de Engenharia de São Carlos (EESC - University of São Paulo) 
+   description: Development of the Indicator Panel of Ultraviolet Ray Index.
+ - title: Monitor of Mathmatics
+   start: 2013
+   end: 2013
+   employer: Instituto de Ciências Matemática e de Computação (ICMC - University of São Paulo) 
+   description: Open call monitoring; assistance in writing theoretical handout and math practice for high school students.
+ - title: Monitor of Calculus
+   start: 2010
+   end: 2012
+   employer: Instituto de Ciências Matemática e de Computação (ICMC - University of São Paulo) 
+   description: Teacher Assistent of Calculus 2, helping freshman students with the subject by taking questions and giving review lessons.
+
+#Education is required
+education:
+ - level: Bachelor of Electrical and Electronic Engineering (B.Sc.)
+   date: 2015
+   subject: 
+   school: University of São Paulo
+
+#This section is optional (as is the image link below)
+# coursera:
+#    profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+#    courses:
+#     - title: Functional Programming Principles in Scala
+#       link: https://www.coursera.org/course/progfun
+#       optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
+#       date: September 16, 2013
+#     - title: Algorithms Design and Analysis, Part 1
+#       link: https://www.coursera.org/specializations/algorithms
+#       optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
+#       date: April 28, 2014
+
+#This section is optional - embeds slideshows from speakerdeck
+# to get the speakerdeck ID copy the embed code and look for the data-it attribute
+# speakerdeck:
+#    profileurl: https://speakerdeck.com/robhinds
+#    talks:
+#     - title: Product Management for Engineers
+#       speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
+#       conference: API Conference, Berlin 2018
+#     - title: Agile Machine Learning - from Theory to Production
+#       speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
+#       conference: W-JAX Conference, Munich 2017 (London 2017)
+
+#List of interesting Github repo/projects to include - optional
+github:
+ - https://github.com/horitahiroshi/horitahiroshi.github.io
+ - https://github.com/horitahiroshi/simple_image_annotation
+ - https://github.com/horitahiroshi/introduction2ML
+ - https://github.com/horitahiroshi/shadow-denoising
+
+#Stackoverflow flair is optional
+# stackoverflow:
+#    profileurl: http://stackoverflow.com/users/258813/rhinds
+#    flairimageurl: http://stackoverflow.com/users/flair/258813.png
+
+intro: |
+  Currently a Master candidate in Computer Science with research line on mobile robotics at Instituto de Ciências Matemática e de Computação of USP São Carlos.
+  Graduated in Electrical and Electronic Engineering at Engineering School of São Carlos - USP. 
+  I have worked as Technological Researcher in R&D projects with focus on sensor fusion, communication protocol, telemetry and embedded system.
+  During the undergraduation I went to South Korea as an exchange student, where I have studied at the SungkyunKwan University and I have participated of a research at the Energy Department, studying the feasibility of using the piezoelectricity as an alternative and clean wey of electrical energy generation.
+  Still in South Korea, I could get two internship programs, on both summer and winter vacation: at the Hyundai Motors and at the ENTEC Electric & Electronics, respectively. 
+
+#An additional info freetext section is optional at the bottom of the page - can be text or HTML
+# additionalinfo: |
+#    <strong>Scala</strong>: My current role uses Scala as the primary language and have been building applications in Scala for the last two years. I am familiar with a range of Scala libraries, such as <a target="_blank" href="http://automateddeveloper.blogspot.com/2017/12/an-opinionated-guide-to-building-apis.html"> Akka-Http for building microservices</a> and <a target="_blank" href="http://automateddeveloper.blogspot.com/2018/09/generic-programming-with-scala.html"> Shapeless for generic programming</a>, as well as familiar with a range of <a target="_blank" href="https://basementcrowd.com/2018/11/28/scala-the-aux-pattern-path-dependent-types/" >functional programming techniques available</a>.<br/><br/>
+#    <strong>Java</strong>: I am experienced in a variety of Java API’s and frameworks. I have worked with Spring 4, Spring Boot, JPA (Hibernate and EclipseLink) in addition to others. <br/><br/>
+#    <strong>Groovy</strong> I have used Groovy as a language in production for ~4 years and I am familiar with many of the languages features (such as writing <a target='_blank' href="https://dzone.com/articles/functional-programming-groovy">Functional Programming style groovy</a>) and quirks (such as <a target="_blank" href="https://dzone.com/articles/groovy-retrospective-an-addendum-memory-usage-perm">memory leak issues</a>). <br/><br/>
+#    <strong>Cloud platforms</strong>: I have primarily used AWS for running production apps on the cloud. I have experience setting up, configuring and running applications using a range of AWS offerings, including EC2, RDS, S3, Cogito, <a target="_blank" href="http://automateddeveloper.blogspot.com/2018/05/serverless-with-aws-lambda-scala.html">Lambda</a> and its more recent <a target="_blank" href="http://automateddeveloper.blogspot.com/2018/10/machine-learning-with-aws-scala.html">Machine Learning capabilities</a>.<br/><br/>
+#    <strong>Web Development</strong>: Through building web applications, I have also worked with various client side technology, having used jQuery, Bootstrap, LESS, SASS, Backbone/Underscore/Require. More recently I have written React applications (primarily using the Create React App framework, and extending them)<br/><br/>
+#    <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar, Jenkins, TeamCity, etc. I have experience with an array of testing tools and technologies.<br/><br/>
+#    I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Android, a variety of social APIs (Twitter etc) and cloud platforms such as CloudFoundry/OpenShift/AppFog/AWS. <br/><br/>
+#    As part of Nerdability, I created, and am now primary contributor to, two Spring projects - <a target='_blank' href="https://github.com/robhinds/spring-social-geeklist">Spring-Social-Geeklist</a> and <a target='_blank' href="https://github.com/nerdability/spring-social-khan-academy">Spring-Social-Khan-Academy</a>, which provide core integration with those third-party APIs on top of the Spring Social framework. They are both listed as community projects: <a target='_blank' href="http://projects.spring.io/spring-social/">http://projects.spring.io/spring-social/</a>. <br/><br/>
+#    I write a blog covering technical and opinion articles that can be found here: <a target='_blank' href="http://automateddeveloper.blogspot.com/">automateddeveloper.blogspot.com</a> (I am also a <a target='_blank' href="https://dzone.com/users/899489/rhinds.html">DZone MVB</a>)
