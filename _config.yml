@@ -50,41 +50,41 @@ roles:
    end: 2017
    employer: SHFC Institute of Guidance and Study Development
    description: Cash flow management, inventory management, management of agenda and internal or external activities, bank reconciliation.
- - title: Researcher
-   start: 2015
-   end: 2015
-   employer: Escola de Engenharia de São Carlos (EESC - Univeristy of São Paulo)
-   description: Development of the system for handgrip strength evaluation at the Laboratory of Biocybernetic and Rehabilitation Engineering (LABCIBER). Access to work's <a href="http://www.tcc.sc.usp.br/tce/disponiveis/18/180450/tce-31032016-155845/?&lang=br" taget="_blank">Report</a>.
- - title: Intern
-   start: 2014
-   end: 2014
-   employer: ENTEC Electric & Electronic Co., Ltd. 
-   description: Study of the products developed by ENTEC (equipments for automatization and distribution in electrical energy grid), translation of technical manuals from English to Portuguese, and assistance at the international relations sector.
- - title: Researcher
-   start: 2014
-   end: 2014
-   employer: Laboratory of Energy / SungkyunKwan University (SKKU) 
-   description: Study of Piezoelectrical viability as an alternative and clean way of electrical energy generation.
- - title: Intern
-   start: 2014
-   end: 2014
-   employer: Hyundai Motor Company 
-   description: Study of all the systems that compose a car (briefly), study of the assembling line logic, market research in Brazil, and presentation of possible innovation and improvement projects on features of the car model HB20, that is sold in Brazil.
- - title: Researcher
-   start: 2012
-   end: 2013
-   employer: Ophtalmic Instrumentation Laboratory / Escola de Engenharia de São Carlos (EESC - University of São Paulo) 
-   description: Development of the Indicator Panel of Ultraviolet Ray Index.
- - title: Monitor of Mathmatics
-   start: 2013
-   end: 2013
-   employer: Instituto de Ciências Matemática e de Computação (ICMC - University of São Paulo) 
-   description: Open call monitoring; assistance in writing theoretical handout and math practice for high school students.
- - title: Monitor of Calculus
-   start: 2010
-   end: 2012
-   employer: Instituto de Ciências Matemática e de Computação (ICMC - University of São Paulo) 
-   description: Teacher Assistent of Calculus 2, helping freshman students with the subject by taking questions and giving review lessons.
+#  - title: Researcher
+#    start: 2015
+#    end: 2015
+#    employer: Escola de Engenharia de São Carlos (EESC - Univeristy of São Paulo)
+#    description: Development of the system for handgrip strength evaluation at the Laboratory of Biocybernetic and Rehabilitation Engineering (LABCIBER). Access to work's <a href="http://www.tcc.sc.usp.br/tce/disponiveis/18/180450/tce-31032016-155845/?&lang=br" taget="_blank">Report</a>.
+#  - title: Intern
+#    start: 2014
+#    end: 2014
+#    employer: ENTEC Electric & Electronic Co., Ltd. 
+#    description: Study of the products developed by ENTEC (equipments for automatization and distribution in electrical energy grid), translation of technical manuals from English to Portuguese, and assistance at the international relations sector.
+#  - title: Researcher
+#    start: 2014
+#    end: 2014
+#    employer: Laboratory of Energy / SungkyunKwan University (SKKU) 
+#    description: Study of Piezoelectrical viability as an alternative and clean way of electrical energy generation.
+#  - title: Intern
+#    start: 2014
+#    end: 2014
+#    employer: Hyundai Motor Company 
+#    description: Study of all the systems that compose a car (briefly), study of the assembling line logic, market research in Brazil, and presentation of possible innovation and improvement projects on features of the car model HB20, that is sold in Brazil.
+#  - title: Researcher
+#    start: 2012
+#    end: 2013
+#    employer: Ophtalmic Instrumentation Laboratory / Escola de Engenharia de São Carlos (EESC - University of São Paulo) 
+#    description: Development of the Indicator Panel of Ultraviolet Ray Index.
+#  - title: Monitor of Mathmatics
+#    start: 2013
+#    end: 2013
+#    employer: Instituto de Ciências Matemática e de Computação (ICMC - University of São Paulo) 
+#    description: Open call monitoring; assistance in writing theoretical handout and math practice for high school students.
+#  - title: Monitor of Calculus
+#    start: 2010
+#    end: 2012
+#    employer: Instituto de Ciências Matemática e de Computação (ICMC - University of São Paulo) 
+#    description: Teacher Assistent of Calculus 2, helping freshman students with the subject by taking questions and giving review lessons.
 
 #Education is required
 education:
